@@ -171,6 +171,8 @@
                     : 8080) -->
                 <!-- <configuration> <path>/</path> <port>8899</port> </configuration> -->
             </plugin>
+      	    <plugin>
+      	    </plugin>
         </plugins>
   </build>
 </project>

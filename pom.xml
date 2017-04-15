@@ -172,9 +172,9 @@
                 <!-- <configuration> <path>/</path> <port>8899</port> </configuration> -->
             </plugin>
       	    <plugin>
-				<groupId>com.google.cloud.tools</groupId>
-				<artifactId>appengine-maven-plugin</artifactId>
-				<version>${appengine-maven-plugin-version}</version>
+                <groupId>com.google.cloud.tools</groupId>
+                <artifactId>appengine-maven-plugin</artifactId>
+                <version>1.9.51</version>
       	    </plugin>
         </plugins>
   </build>
